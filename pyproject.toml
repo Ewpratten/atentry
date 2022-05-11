@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Never see `if __name__ == \"__main__\"` again!"
 authors = ["Evan Pratten <ewpratten@gmail.com>"]
 license = "GPLv3"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.7"
