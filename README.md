@@ -1,2 +1,1 @@
-# atmain
-Never see `if __name__ == "__main__"` again!
+# atentry: Never see `if __name__ == "__main__"` again!
