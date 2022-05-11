@@ -1,4 +1,4 @@
-# `@entry`
+# The `@entry` decorator
 
 Tired of the traditional python `if __name__ == '__main__':` pattern? Try `@entry` instead!
 
